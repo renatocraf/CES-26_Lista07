@@ -17,7 +17,7 @@ Para iniciar a aplicação, deve-se iniciar o servidor:
 npm start
 ```
 
-Para executar a aplicação no celular, deve-se baixar o app Expo, contido na Play Store <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US">Link<a/>
+Para executar a aplicação no celular, deve-se baixar o app Expo, contido na <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US">Play Store<a/>.
   
 Após, abra o aplicativo e escaneie o QRCODE disponibilizado no seu computador.
 
