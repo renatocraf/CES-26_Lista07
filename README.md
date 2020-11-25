@@ -1,5 +1,5 @@
 # CES-26_Lista07
-###Lista de Exercicios 7 de CES-26
+### Lista de Exercicios 7 de CES-26
 
 Versão do NodeJs utilizada: v14.13.0
 
